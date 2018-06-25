@@ -14,6 +14,7 @@ A novel, stochastic process was developed describing cyclical fasted-state gastr
 # About the Authors
 
 - Gordon L. Amidon
+- Marival Bermejo
 - Bart Hens
 - Luca Marciani
 - Kai Wang
